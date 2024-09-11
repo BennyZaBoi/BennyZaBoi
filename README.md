@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BennyZaBoi
 - 👀 I’m interested in C++, ML, Python, and Books!
 - 🌱 I’m currently learning more about ML and algorithms.
-- 📫 How to reach me: Through Instagram @bennywithzabois
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Dolphins have names for each other.
 
