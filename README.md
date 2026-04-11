@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BennyZaBoi
+- 👋 Hi, I’m Ben!
 - 👀 I’m interested in C++, ML, Python, and Books!
 - 🌱 I’m currently learning more about ML and algorithms.
 - 😄 Pronouns: He/Him
